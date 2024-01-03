@@ -103,7 +103,7 @@ function replyToUser(userId, message) {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        Authorization: 'Bearer YOUR_CHANNEL_ACCESS_TOKEN',
+        Authorization: 'Bearer E8LVOfISOW905fFJpCEsaPeUVqoLOA2WZDj/p+7+bA4a1QpTf6izSyKSqwXxcDXEEj8L07y5DrXAk4CuXLiQX/z7wKGrcbJKOOGk9Ew/Z73p6xAteDzU2KtfS3pLNaVsYeqrCHNsUKYv0g6fBbWuUAdB04t89/1O/w1cDnyilFU=',
       },
     };
   
